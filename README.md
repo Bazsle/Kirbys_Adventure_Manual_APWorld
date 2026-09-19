@@ -43,23 +43,28 @@ Maxim Tomato, Pep Drink and Star are the filler items.
 3. Close and re-open the AP launcher and select Generate Template Options to create a .yaml file for this game in the Templates directory. (note this will overwrite any customized .yaml files in that folder and generate for core-verified worlds and installed custom worlds)
 
 4. This manual APWorld has a few customizable toggles within the YAML file.
+
   a. 1-Up-Sanity (adds 37 1-Up locations to the pool)
+  
   b. 1-Up-Sanity Expert (adds 6 additional 1-Up locations that are tough for the average player to reach)
-    i. If you want these tougher locations to be enabled, set both 1-Up Sanity and 1-Up Sanity Expert to true in your YAML. If you leave this option off or the normal 1-Up Sanity off, these checks will not be enabled.
+  
+   i. If you want these tougher locations to be enabled, set both 1-Up Sanity and 1-Up Sanity Expert to true in your YAML. If you leave this option off or the normal 1-Up Sanity off, these checks will not be enabled.
+  
   c. Tomato-Sanity (adds 34 Maxim Tomato locations to the pool, note this includes the 5 Maxim Tomato rewards in the mini-boss arenas)
+  
   d. Drink-Sanity (adds 30 Pep Drinks locations to the pool)
 
-5. Of course, be sure to change your slot name to whatever you want it to be called.
+6. Of course, be sure to change your slot name to whatever you want it to be called.
 
-6. Send the .apworld file and the .yaml file to the host who will generate the multiworld game if you are not hosting the game yourself. (skip to step 11 if you are not hosting)
+7. Send the .apworld file and the .yaml file to the host who will generate the multiworld game if you are not hosting the game yourself. (skip to step 11 if you are not hosting)
 
-7. If you are hosting the game yourself, move the .yaml into the Players directory (in addition to any other players' .yaml files) in your Archipelago installation folder.
+8. If you are hosting the game yourself, move the .yaml into the Players directory (in addition to any other players' .yaml files) in your Archipelago installation folder.
 
-8. Click on the ArchipelagoGenerate.exe in your AP installation or select Generate in the AP Launcher to create the multiworld.
+9. Click on the ArchipelagoGenerate.exe in your AP installation or select Generate in the AP Launcher to create the multiworld.
 
-9. Once the output ZIP file is generated, go to archipelago.gg and select Host Game and upload the output ZIP file there.
+10. Once the output ZIP file is generated, go to archipelago.gg and select Host Game and upload the output ZIP file there.
 
-10. Download a spoiler log if you want and click Create Room to get the room opened and visibility to the port number for your game.
+11. Download a spoiler log if you want and click Create Room to get the room opened and visibility to the port number for your game.
   a. Note that you do not need to download the patch file associated with your slot to play this game.
 
-11. Open the AP Manual client (I also recommend opening a text client to more easily follow along with sent items), enter the port number and your slot name and enjoy!
+12. Open the AP Manual client (I also recommend opening a text client to more easily follow along with sent items), enter the port number and your slot name and enjoy!
