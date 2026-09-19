@@ -20,7 +20,7 @@ Arenas (5 checks)
 
 Invincible Candy (5 checks)
 
-1-Ups (43 checks, 37 normal, 6 expert)
+1-Ups (44 checks, 38 normal and 6 expert)
 
 Maxim Tomatos (34 checks)
 
