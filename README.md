@@ -44,7 +44,7 @@ Maxim Tomato, Pep Drink and Star are the filler items.
 
 4. This manual APWorld has a few customizable toggles within the YAML file.
 
-  a. 1-Up-Sanity (adds 37 1-Up locations to the pool)
+  a. 1-Up-Sanity (adds 38 1-Up locations to the pool)
   
   b. 1-Up-Sanity Expert (adds 6 additional 1-Up locations that are tough for the average player to reach)
   
